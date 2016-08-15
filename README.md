@@ -1,0 +1,2 @@
+# HowToProcessFixedWidthText
+固定幅フォーマットのデータ処理
